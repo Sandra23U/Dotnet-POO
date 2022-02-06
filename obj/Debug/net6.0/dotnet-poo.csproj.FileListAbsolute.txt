@@ -1,0 +1,15 @@
+/home/sosouza02/Dotnet-POO/bin/Debug/net6.0/dotnet-poo
+/home/sosouza02/Dotnet-POO/bin/Debug/net6.0/dotnet-poo.deps.json
+/home/sosouza02/Dotnet-POO/bin/Debug/net6.0/dotnet-poo.runtimeconfig.json
+/home/sosouza02/Dotnet-POO/bin/Debug/net6.0/dotnet-poo.dll
+/home/sosouza02/Dotnet-POO/bin/Debug/net6.0/ref/dotnet-poo.dll
+/home/sosouza02/Dotnet-POO/bin/Debug/net6.0/dotnet-poo.pdb
+/home/sosouza02/Dotnet-POO/obj/Debug/net6.0/dotnet-poo.csproj.AssemblyReference.cache
+/home/sosouza02/Dotnet-POO/obj/Debug/net6.0/dotnet-poo.GeneratedMSBuildEditorConfig.editorconfig
+/home/sosouza02/Dotnet-POO/obj/Debug/net6.0/dotnet-poo.AssemblyInfoInputs.cache
+/home/sosouza02/Dotnet-POO/obj/Debug/net6.0/dotnet-poo.AssemblyInfo.cs
+/home/sosouza02/Dotnet-POO/obj/Debug/net6.0/dotnet-poo.csproj.CoreCompileInputs.cache
+/home/sosouza02/Dotnet-POO/obj/Debug/net6.0/dotnet-poo.dll
+/home/sosouza02/Dotnet-POO/obj/Debug/net6.0/ref/dotnet-poo.dll
+/home/sosouza02/Dotnet-POO/obj/Debug/net6.0/dotnet-poo.pdb
+/home/sosouza02/Dotnet-POO/obj/Debug/net6.0/dotnet-poo.genruntimeconfig.cache

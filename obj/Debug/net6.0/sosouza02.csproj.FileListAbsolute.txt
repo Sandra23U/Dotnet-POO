@@ -1,0 +1,15 @@
+/home/sosouza02/Dotnet-POO/bin/Debug/net6.0/sosouza02
+/home/sosouza02/Dotnet-POO/bin/Debug/net6.0/sosouza02.deps.json
+/home/sosouza02/Dotnet-POO/bin/Debug/net6.0/sosouza02.runtimeconfig.json
+/home/sosouza02/Dotnet-POO/bin/Debug/net6.0/sosouza02.dll
+/home/sosouza02/Dotnet-POO/bin/Debug/net6.0/ref/sosouza02.dll
+/home/sosouza02/Dotnet-POO/bin/Debug/net6.0/sosouza02.pdb
+/home/sosouza02/Dotnet-POO/obj/Debug/net6.0/sosouza02.csproj.AssemblyReference.cache
+/home/sosouza02/Dotnet-POO/obj/Debug/net6.0/sosouza02.GeneratedMSBuildEditorConfig.editorconfig
+/home/sosouza02/Dotnet-POO/obj/Debug/net6.0/sosouza02.AssemblyInfoInputs.cache
+/home/sosouza02/Dotnet-POO/obj/Debug/net6.0/sosouza02.AssemblyInfo.cs
+/home/sosouza02/Dotnet-POO/obj/Debug/net6.0/sosouza02.csproj.CoreCompileInputs.cache
+/home/sosouza02/Dotnet-POO/obj/Debug/net6.0/sosouza02.dll
+/home/sosouza02/Dotnet-POO/obj/Debug/net6.0/ref/sosouza02.dll
+/home/sosouza02/Dotnet-POO/obj/Debug/net6.0/sosouza02.pdb
+/home/sosouza02/Dotnet-POO/obj/Debug/net6.0/sosouza02.genruntimeconfig.cache
