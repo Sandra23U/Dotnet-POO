@@ -1,7 +1,7 @@
 # INTRODUÇÃO A ORIENTAÇÃO A OBJETOS
 
 ## X DUNGEON DIO
-![PICTURE](../Dotnet-POO/Docs/picture.jpg)
+https://github.com/Sandra23U/Dotnet-POO/blob/master/Docs/picture.jpg
 
 
 # Pré requesitos
