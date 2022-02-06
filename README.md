@@ -38,3 +38,4 @@ Encapsulamento
 Polimorfismo
 Abstração# Dotnet-POO
 # Dotnet-POO
+Repositório criado a partir de um desafio de projeto da Dio.me no Bootcamp GFT Start #3 .NET a fim de reforçar os conhecimentos em C# e POO.
