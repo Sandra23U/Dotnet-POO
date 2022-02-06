@@ -30,7 +30,7 @@ https://github.com/Sandra23U/Dotnet-POO/blob/master/Docs/picture.jpg
 
 ## X DUNGEON FANTASY
 
-![GIF](../Dotnet-POO/Docs/wizard.gif)
+https://github.com/Sandra23U/Dotnet-POO/blob/master/Docs/wizard.gif
 
 # H.E.P.A
 Herança
