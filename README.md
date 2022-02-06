@@ -1,7 +1,7 @@
 # INTRODUÇÃO A ORIENTAÇÃO A OBJETOS
 
 ## X DUNGEON DIO
-https://github.com/Sandra23U/Dotnet-POO/blob/master/Docs/picture.jpg
+<img src="https://github.com/Sandra23U/Dotnet-POO/blob/master/Docs/picture.jpg" alt="imagem Dungeon">
 
 
 # Pré requesitos
@@ -30,7 +30,7 @@ https://github.com/Sandra23U/Dotnet-POO/blob/master/Docs/picture.jpg
 
 ## X DUNGEON FANTASY
 
-https://github.com/Sandra23U/Dotnet-POO/blob/master/Docs/wizard.gif
+<img src="https://github.com/Sandra23U/Dotnet-POO/blob/master/Docs/wizard.gif" alt="imagem Dungeon Fantasy">
 
 # H.E.P.A
 Herança
